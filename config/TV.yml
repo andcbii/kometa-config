@@ -8,171 +8,170 @@ collections:
     template:
       name: TV-collection
     tmdb_show:
-      - 82 #Animaniacs (1993)
-      - 107124 #Animaniacs (2020)
-  Batman 1966:
-    template:
-      name: TV-collection
-    tmdb_show:
-      - 2287 #Batman (1966)
+      - 82
+      - 107124
   Batman (DC Universe Animated) Collection:
     template:
       name: TV-collection
     tmdb_show:
-      - 2098 #Batman: The Animated Series (1992)
-      - 513 #Batman Beyond (1999)
+      - 2098
+      - 513
+  Batman 1966:
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 2287
   Battlestar Galactica (Reboot):
     template:
       name: TV-collection
     tmdb_show:
-      - 71365 #Battlestar Galactica (2003)
-      - 1972 #Battlestar Galactica (2004)
+      - 71365
+      - 1972
   Clarissa:
     template:
       name: TV-collection
     tmdb_show:
-      - 249 #Clarissa Explains It All (1991)
+      - 249
   Cowboy Bebop:
     template:
       name: TV-collection
     tmdb_show:
-      - 30991 #Cowboy Bebop (1998)
+      - 30991
   Daria:
     template:
       name: TV-collection
     tmdb_show:
-      - 2131 #Daria (1997)
+      - 2131
   Deadwood:
     template:
       name: TV-collection
     tmdb_show:
-      - 1406 #Deadwood (2004)
+      - 1406
   Dragon Ball Collection:
-    template:
-      name: TV-collection
     sort_title: Dragon_Ball_1
-    tmdb_show:
-      - 12609 #Dragon Ball (1986)
-  Dragon Ball Z Collection:
     template:
       name: TV-collection
-    sort_title: Dragon_Ball_2
     tmdb_show:
-      - 12971 #Dragon Ball Z (1989)
-  Dragon Ball Super Collection:
-    template:
-      name: TV-collection
-    sort_title: Dragon_Ball_3
-    tmdb_show:
-      - 62715 #Dragon Ball Super (2015)
+      - 12609
   Dragon Ball Complete Collection:
+    sort_title: Dragon_Ball_4
     template:
       name: TV-collection
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
-    sort_title: Dragon_Ball_4
     tmdb_show:
-      - 12609 #Dragon Ball (1986)
-      - 12971 #Dragon Ball Z (1989)
-      - 61709 #Dragon Ball Z Kai (2009)
-      - 62715 #Dragon Ball Super (2015)
-      - 12697 #Dragon Ball GT (1996)
+      - 12609
+      - 12971
+      - 61709
+      - 62715
+      - 12697
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
+  Dragon Ball Super Collection:
+    sort_title: Dragon_Ball_3
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 62715
+  Dragon Ball Z Collection:
+    sort_title: Dragon_Ball_2
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 12971
   DuckTales:
     template:
       name: TV-collection
     tmdb_show:
-      - 720 #DuckTales (1987)
+      - 720
   Evil Dead:
-  
     tmdb_show:
-      - 62264 #Ash vs Evil Dead (2015)
+      - 62264
   Friends:
     template:
       name: TV-collection
-    tmdb_show: 
-      - 1668 #Friends (1994)
+    tmdb_show:
+      - 1668
   G.I. Joe Collection:
     template:
       name: TV-collection
     tmdb_show:
-      - 29200 #G.I. Joe: A Real American Hero (1983)
+      - 29200
   Lion Guard:
     template:
       name: TV-collection
     tmdb_show:
-      - 64752 #The Lion Guard (2016)
+      - 64752
   Miraculous World:
     template:
       name: TV-collection
     tmdb_show:
-      - 65334 #Miraculous: Tales of Ladybug & Cat Noir (2015)
+      - 65334
+  MonsterVerse:
+    collection_mode: hide
+    collection_order: custom
+    mdblist_list: https://mdblist.com/lists/andcbii/test-list
+    sync_mode: sync
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
   Parks and Recreation:
     template:
       name: TV-collection
     tmdb_show:
-      - 8592 #Parks and Recreation (2009)
+      - 8592
   Power Rangers:
     template:
       name: TV-collection
     tmdb_show:
-      - 2328 #Power Rangers (1993)
+      - 2328
   Psych:
     template:
       name: TV-collection
     tmdb_show:
-      - 1447 #Psych (2006)
+      - 1447
+  Star Trek:
+    sort_title: Star_Trek_9999
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 253
+      - 1992
+      - 655
+      - 580
+      - 1855
+      - 314
+      - 67198
+      - 82491
+      - 85949
+      - 85948
+      - 106393
+      - 103516
+  'Star Trek: The Next Generation':
+    sort_title: Star_Trek_1987
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 655
+  'Star Trek: The Original Series':
+    sort_title: Star_Trek_1966
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 253
+      - 1992
+  TMNT-2012:
+    template:
+      name: TV-collection
+    tmdb_show:
+      - 51817
   The Simpsons:
     template:
       name: TV-collection
     tmdb_show:
-      - 456 #The Simpsons (1989)
-  'Star Trek: The Original Series':
-    template:
-      name: TV-collection
-    sort_title: Star_Trek_1966
-    tmdb_show:
-      - 253 #Star Trek (1966)
-      - 1992 #Star Trek: The Animated Series (1973)
-  'Star Trek: The Next Generation':
-    template:
-      name: TV-collection
-    sort_title: Star_Trek_1987
-    tmdb_show:
-      - 655 #Star Trek: The Next Generation (1987)
-  Star Trek:
-    template:
-      name: TV-collection
-    sort_title: Star_Trek_9999
-    tmdb_show:
-      - 253 #Star Trek (1966)
-      - 1992 #Star Trek: The Animated Series (1973)
-      - 655 #Star Trek: The Next Generation (1987)
-      - 580 #Star Trek: Deep Space Nine (1993)
-      - 1855 #Star Trek: Voyager (1995)
-      - 314 #Star Trek: Enterprise (2001)
-      - 67198 #Star Trek: Discovery (2017)
-      - 82491 #Star Trek: Short Treks (2018)
-      - 85949 #Star Trek: Picard (2020)
-      - 85948 #Star Trek: Lower Decks (2020)
-      - 106393 #Star Trek: Prodigy (2021)
-      - 103516 #Star Trek: Strange New Worlds (2022)
-  'TMNT-2012':
-    template:
-      name: TV-collection
-    tmdb_show:
-      - 51817 #Teenage Mutant Ninja Turtles (2012)
+      - 456
   Transformers 1984:
     template:
       name: TV-collection
     tmdb_show:
-      - 4269 #The Transformers (1984)
+      - 4269
   Zoey's Extraordinary:
     template:
       name: TV-collection
     tmdb_show:
-      - 95941 #Zoey's Extraordinary Playlist (2020)
-  MonsterVerse:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
-    mdblist_list: https://mdblist.com/lists/andcbii/test-list
-    collection_order: custom
-    sync_mode: sync
-    collection_mode: hide  
+      - 95941

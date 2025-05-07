@@ -6,194 +6,194 @@ templates:
     collection_mode: hide
   manual-collection:
     collection_mode: hide_items 
-collections: 
-  Pokémon Collection:
-    template:
-      name: manual-collection
-    tmdb_collection_details:
-      - 34055 #Pokémon Collection
-      - 661029 #Pokémon: XY Collection
-      - 661028 #Pokémon: Best Wishes! Collection
-      - 661025 #Pokémon: Advanced Generation Collection
-      - 661031 #Pokémon: Alternate Continuity Collection
-      - 661026 #Pokémon: Diamond and Pearl Collection
-    tmdb_movie:
-      - 36897 #Pokémon: Mewtwo Returns (2001)
-      - 571891 #Pokemon the Movie: Mewtwo Strikes Back - Evolution (2019)
-  Dragon Ball Collection:
-    template:
-      name: manual-collection
-    sort_title: Dragon_Ball_1
-    tmdb_collection_details:
-      - 386410 #Dragon Ball Collection
-  Dragon Ball Z Collection:
-    template:
-      name: manual-collection
-    sort_title: Dragon_Ball_2
-    tmdb_collection_details:
-      - 425164 #Dragon Ball Z Collection
-  Dragon Ball Super Collection:
-    template:
-      name: manual-collection
-    sort_title: Dragon_Ball_3
-    tmdb_collection_details:
-      - 620873 #Dragon Ball Super Collection
-  Dragon Ball Complete Collection:
-    template:
-      name: manual-collection
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
-    sort_title: Dragon_Ball_4
-    tmdb_collection:
-      - 386410 #Dragon Ball Collection
-      - 425164 #Dragon Ball Z Collection
-      - 620873 #Dragon Ball Super Collection
-  Batman (DC Universe Animated) Collection:
-    template:
-      name: manual-collection
-    sort_title: Batman_A_Animated
-    tmdb_collection_details:
-      - 421904 #Batman (DC Universe Animated) Collection
-  Son of Batman Collection:
-    template:
-      name: manual-collection
-    sort_title: Batman_B_Animated
-    tmdb_collection_details:
-      - 334996 #Son of Batman Collection
-  Superman / Batman (Animated) Collection:
-    template:
-      name: manual-collection
-    sort_title: Batman_C_Animated
-    tmdb_collection_details:
-      - 290933 #Superman / Batman (Animated) Collection
-  Batman 80th Anniversary Collection:
-    template:
-      name: manual-collection
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668795070/Plex%20-%20PMM%20images/Batman-80th-Anniversary-Collection_usl1u1.jpg
-    sort_title: Batman_D_Animated
-    tmdb_collection:
-      - 421904 #Batman (DC Universe Animated) Collection
-      - 334996 #Son of Batman Collection
-      - 290933 #Superman / Batman (Animated) Collection
-    tmdb_movie:
-      - 485942 #Batman Ninja (2018)
-      - 581997 #Batman vs. Teenage Mutant Ninja Turtles (2019)
-      - 242643 #Batman: Assault on Arkham (2014)
-      - 471474 #Batman: Gotham by Gaslight (2018)
-      - 13851 #Batman: Gotham Knight (2008)
-      - 411736 #Batman: Return of the Caped Crusaders (2016)
-      - 472027 #Batman: The Dark Knight Returns (2013)
-      - 382322 #Batman: The Killing Joke (2016)
-      - 40662 #Batman: Under the Red Hood (2010)
-      - 69735 #Batman: Year One (2011)
-  LEGO DC Comics Super Heroes Collection:
-    template:
-      name: manual-collection
-    tmdb_collection_details:
-      - 386162 #LEGO DC Comics Super Heroes Collection
+collections:
+  100 Horror Movies:
+    collection_mode: show_items
+    sort_title: '!040_100 Horror Movies'
+    trakt_list: https://trakt.tv/users/andcbii/lists/100-horror-movies
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1706142081/Plex%20-%20PMM%20images/HORROR78108cda6c12a0ed_quwwxd.png
   Animaniacs:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 73901 #Animaniacs: Wakko's Wish (1999)
+      - 73901
+  Batman (DC Universe Animated) Collection:
+    sort_title: Batman_A_Animated
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 421904
   Batman 1966:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 2661 #Batman (1966)
+      - 2661
+  Batman 80th Anniversary Collection:
+    sort_title: Batman_D_Animated
+    template:
+      name: manual-collection
+    tmdb_collection:
+      - 421904
+      - 334996
+      - 290933
+    tmdb_movie:
+      - 485942
+      - 581997
+      - 242643
+      - 471474
+      - 13851
+      - 411736
+      - 472027
+      - 382322
+      - 40662
+      - 69735
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668795070/Plex%20-%20PMM%20images/Batman-80th-Anniversary-Collection_usl1u1.jpg
   Clarissa:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 395957 #Clarissa (1995)
+      - 395957
   Cowboy Bebop:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 11299 #Cowboy Bebop: The Movie (2001)
+      - 11299
   Deadwood:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 538225 #Deadwood: The Movie (2019)
+      - 538225
+  Dragon Ball Collection:
+    sort_title: Dragon_Ball_1
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 386410
+  Dragon Ball Complete Collection:
+    sort_title: Dragon_Ball_4
+    template:
+      name: manual-collection
+    tmdb_collection:
+      - 386410
+      - 425164
+      - 620873
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668802950/Plex%20-%20PMM%20images/dragonball_xljkad.jpg
+  Dragon Ball Super Collection:
+    sort_title: Dragon_Ball_3
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 620873
+  Dragon Ball Z Collection:
+    sort_title: Dragon_Ball_2
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 425164
   DuckTales:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 10837 #DuckTales: The Movie - Treasure of the Lost Lamp (1990)
+      - 10837
   Friends:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 691179 #Friends: The Reunion (2021)
+      - 691179
   G.I. Joe Collection:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 17421 #G.I. Joe: The Movie (1987)
+      - 17421
+  LEGO DC Comics Super Heroes Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 386162
   Lion Guard:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 359983 #The Lion Guard: Return of the Roar (2015)
+      - 359983
+  MonsterVerse:
+    collection_mode: hide
+    collection_order: release.asc
+    mdblist_list: https://mdblist.com/lists/andcbii/test-list
+    sort_title: '!040_MonsterVerse'
+    sync_mode: sync
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
   Parks and Recreation:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 696507 #A Parks and Recreation Special (2020)
+      - 696507
+  Pixar Animation Studios:
+    collection_mode: hide
+    sort_title: '!030_Pixar'
+    trakt_list: https://trakt.tv/users/asterlea/lists/pixar
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
+  Pokémon Collection:
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 34055
+      - 661029
+      - 661028
+      - 661025
+      - 661031
+      - 661026
+    tmdb_movie:
+      - 36897
+      - 571891
   Power Rangers:
     template:
       name: manual-collection
     tmdb_collection_details:
-      - 708816 #Power Rangers Collection
-  The Simpsons:
+      - 708816
+  Son of Batman Collection:
+    sort_title: Batman_B_Animated
     template:
       name: manual-collection
-    tmdb_movie_details:
-      - 35 #The Simpsons Movie (2007)
+    tmdb_collection_details:
+      - 334996
+  Studio Ghibli:
+    collection_mode: hide
+    sort_title: '!030_Studio Ghibli'
+    trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007882/Plex%20-%20PMM%20images/Studio_Ghibli_weft6f.jpg
+  Superman / Batman (Animated) Collection:
+    sort_title: Batman_C_Animated
+    template:
+      name: manual-collection
+    tmdb_collection_details:
+      - 290933
   TMNT-2012:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 366861 #Half-Shell Heroes: Blast to the Past (2015)
+      - 366861
+  The Simpsons:
+    template:
+      name: manual-collection
+    tmdb_movie_details:
+      - 35
   Transformers 1984:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 1857 #The Transformers: The Movie (1986)
+      - 1857
+  Walt Disney Animation Studios:
+    collection_mode: hide
+    collection_order: custom
+    mdblist_list: https://mdblist.com/lists/andcbii/walt-disney-animation-studios-feature-films
+    sort_title: '!030_Disney'
+    sync_mode: sync
+    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007208/Plex%20-%20PMM%20images/walt_disney_animation_studios_by_sithlord38_dfnjnqf-fullview_xsgbmx.jpg
   Zoey's Extraordinary:
     template:
       name: manual-collection
     tmdb_movie_details:
-      - 872130 #Zoey's Extraordinary Christmas (2021)
-  100 Horror Movies:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1706142081/Plex%20-%20PMM%20images/HORROR78108cda6c12a0ed_quwwxd.png
-    trakt_list: https://trakt.tv/users/andcbii/lists/100-horror-movies
-    sort_title: '!040_100 Horror Movies'
-    collection_mode: show_items
-  Walt Disney Animation Studios:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007208/Plex%20-%20PMM%20images/walt_disney_animation_studios_by_sithlord38_dfnjnqf-fullview_xsgbmx.jpg
-    mdblist_list: https://mdblist.com/lists/andcbii/walt-disney-animation-studios-feature-films
-    sort_title: '!030_Disney'
-    collection_order: custom
-    sync_mode: sync
-    collection_mode: hide    
-  Pixar Animation Studios:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
-    trakt_list: https://trakt.tv/users/asterlea/lists/pixar
-    sort_title: '!030_Pixar'
-    collection_mode: hide
-  Studio Ghibli:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007882/Plex%20-%20PMM%20images/Studio_Ghibli_weft6f.jpg
-    trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
-    sort_title: '!030_Studio Ghibli'
-    collection_mode: hide
-  MonsterVerse:
-    url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712692272/Plex%20-%20PMM%20images/MonsterVerse_Collection_fi8pme.png
-    mdblist_list: https://mdblist.com/lists/andcbii/test-list
-    sort_title: '!040_MonsterVerse'
-    collection_order: release.asc
-    sync_mode: sync
-    collection_mode: hide   
+      - 872130   
       
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name

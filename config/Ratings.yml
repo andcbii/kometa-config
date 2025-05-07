@@ -1,4 +1,8 @@
 metadata:
+  A Day in the Life of Donald Duck:
+    alt_title: A Day in the Life of Donald Duck
+    content_rating: G
+    tmdb_show: 4231
   A Parks and Recreation Special:
     content_rating: TV-14
   Almost Heaven:
@@ -9,6 +13,24 @@ metadata:
     content_rating: Approved
   'Batman & Mr. Freeze: SubZero':
     content_rating: TV-Y7
+  Batman & Robin:
+    sort_title: Batman_1997
+  Batman Begins:
+    sort_title: Batman_2005
+  Batman Forever:
+    sort_title: Batman_1995
+  Batman Returns:
+    sort_title: Batman_1992
+  'Batman v Superman: Dawn of Justice':
+    sort_title: Batman_2016
+  Batman1:
+    sort_title: Batman_1966
+    title: Batman
+    year: 1966
+  Batman2:
+    sort_title: Batman_1989
+    title: Batman
+    year: 1989
   'Battlestar Galactica: Razor':
     content_rating: TV-14
   'Battlestar Galactica: The Plan':
@@ -103,6 +125,20 @@ metadata:
     content_rating: NR
   Miracle on 34th Street:
     content_rating: Approved
+  'Mission: Impossible':
+    sort_title: Mission_Impossible_1996
+  'Mission: Impossible - Dead Reckoning':
+    sort_title: Mission_Impossible_2023
+  'Mission: Impossible - Fallout':
+    sort_title: Mission_Impossible_2018
+  'Mission: Impossible - Ghost Protocol':
+    sort_title: Mission_Impossible_2011
+  'Mission: Impossible - Rogue Nation':
+    sort_title: Mission_Impossible_2015
+  'Mission: Impossible II':
+    sort_title: Mission_Impossible_2000
+  'Mission: Impossible III':
+    sort_title: Mission_Impossible_2006
   Mr. Deeds Goes to Town:
     content_rating: Approved
   Mr. Jones:
@@ -157,6 +193,8 @@ metadata:
     content_rating: TV-PG
   The Animatrix:
     content_rating: R
+  The Batman:
+    sort_title: Batman_2022
   The Captain:
     content_rating: R
   The Harvey Girls:
@@ -179,6 +217,10 @@ metadata:
     content_rating: NC-17
   The Twelve Chairs:
     content_rating: PG
+  The Winning Season:
+    alt_title: Seeking for Justice Children
+    originally_available: 2009-01-19T00:00:00.000Z
+    year: 2023
   Victory Through Air Power:
     content_rating: Approved
   Waiting for the Barbarians:
@@ -193,47 +235,5 @@ metadata:
     content_rating: PG-13
   Zoey's Extraordinary Christmas:
     content_rating: TV-14
-  Batman1:
-    title: Batman
-    year: 1966
-    sort_title: Batman_1966
-  Batman2:
-    title: Batman
-    year: 1989
-    sort_title: Batman_1989
-  Batman Returns:
-    sort_title: Batman_1992
-  Batman Forever:
-    sort_title: Batman_1995
-  Batman & Robin:
-    sort_title: Batman_1997
-  Batman Begins:
-    sort_title: Batman_2005
-  "Batman v Superman: Dawn of Justice":
-    sort_title: Batman_2016
-  The Batman:
-    sort_title: Batman_2022
-  A Day in the Life of Donald Duck:
-    alt_title: A Day in the Life of Donald Duck
-    tmdb_show: 4231
-    content_rating: G
-  The Winning Season:
-    alt_title: Seeking for Justice Children
-    year: 2023
-    originally_available: 2009-01-19
-  'Mission: Impossible':
-    sort_title: Mission_Impossible_1996
-  'Mission: Impossible II':
-    sort_title: Mission_Impossible_2000
-  'Mission: Impossible III':
-    sort_title: Mission_Impossible_2006
-  'Mission: Impossible - Ghost Protocol':
-    sort_title: Mission_Impossible_2011
-  'Mission: Impossible - Rogue Nation':
-    sort_title: Mission_Impossible_2015
-  "Mission: Impossible - Fallout":
-    sort_title: Mission_Impossible_2018
-  'Mission: Impossible - Dead Reckoning':
-    sort_title: Mission_Impossible_2023
-
+  
   run_again: true

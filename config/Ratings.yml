@@ -11,6 +11,14 @@ metadata:
     content_rating: TV-Y7
   Arsenic and Old Lace:
     content_rating: Approved
+  Bad Boys:
+    sort_title: Bad Boys_1995
+  Bad Boys II:
+    sort_title: Bad Boys_2003
+  Bad Boys for Life:
+    sort_title: Bad Boys_2020
+  'Bad Boys: Ride or Die':
+    sort_title: Bad Boys_2024
   'Batman & Mr. Freeze: SubZero':
     content_rating: TV-Y7
   Batman & Robin:
@@ -235,13 +243,5 @@ metadata:
     content_rating: PG-13
   Zoey's Extraordinary Christmas:
     content_rating: TV-14
-  Bad Boys:
-    sort_title: Bad Boys_1995
-  Bad Boys II:
-    sort_title: Bad Boys_2003
-  Bad Boys for Life:
-    sort_title: Bad Boys_2020
-  'Bad Boys: Ride or Die':
-    sort_title: Bad Boys_2024
-
+    
   run_again: true

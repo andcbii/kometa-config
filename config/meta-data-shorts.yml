@@ -1,0 +1,8 @@
+metadata:
+  A Day in the Life of Donald Duck:
+    alt_title: A Day in the Life of Donald Duck
+    content_rating: G
+    tmdb_show: 4231
+  
+  #Run again only works with local files. Does not work with Github
+  # run_again: true

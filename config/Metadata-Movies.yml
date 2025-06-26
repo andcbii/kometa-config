@@ -43,11 +43,9 @@ metadata:
     content_rating: PG
   Chase Me:
     content_rating: TV-Y7
-  Christmas in Toyland:
-    content_rating: G
   Clarissa:
     content_rating: TV-G
-  Coda:
+  CODA:
     content_rating: PG-13
   Cool Hand Luke:
     content_rating: PG
@@ -55,7 +53,9 @@ metadata:
     content_rating: PG
   Dinner Aboard the Bebop:
     content_rating: NR
-  'Dragon Ball Z: Broly – Second Coming':
+  'Dragon Ball Z: Broly - Second Coming':
+    match:
+      mapping_id: 44251
     content_rating: PG-13
   'Dragon Ball Z: Cooler''s Revenge':
     content_rating: PG-13

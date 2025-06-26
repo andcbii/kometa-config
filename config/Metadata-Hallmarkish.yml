@@ -1,6 +1,8 @@
 metadata:
   Christmas in Toyland:
     content_rating: G
+  The Mistletoe Inn:
+    content_rating: PG
   
   #Run again only works with local files. Does not work with Github!
   # run_again: true

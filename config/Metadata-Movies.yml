@@ -83,13 +83,13 @@ metadata:
     content_rating: Approved
   Gidget:
     content_rating: Approved
-  Gone Nutty:
-    content_rating: PG
   Guys and Dolls:
     content_rating: Approved
   'Half-Shell Heroes: Blast to the Past':
     content_rating: TV-Y7
   Happy Holidays With Frank & Bing:
+    match:
+      mapping_id: 708829
     content_rating: G
   Heartless:
     content_rating: R
@@ -148,14 +148,20 @@ metadata:
   One Small Hitch:
     content_rating: PG-13
   Peter Pan1955:
+    match:
+      mapping_id: 368186
     content_rating: TV-G
     title: Peter Pan
     year: 1955
   Peter Pan1956:
+    match:
+      mapping_id: 721710
     content_rating: TV-G
     title: Peter Pan
     year: 1956
   Peter Pan1960:
+    match:
+      mapping_id: 51120
     content_rating: TV-G
     title: Peter Pan
     year: 1960
@@ -192,6 +198,8 @@ metadata:
   'Skin: A History of Nudity in the Movies':
     content_rating: R
   Taylor Hawkins Tribute Concert:
+    match:
+      mapping_id: 1013901
     content_rating: TV-PG
   The Animatrix:
     content_rating: R
@@ -205,8 +213,6 @@ metadata:
     content_rating: R
   'The Lion Guard: Return of the Roar':
     content_rating: TV-G
-  The Mistletoe Inn:
-    content_rating: PG
   The Philadelphia Story:
     content_rating: Approved
   The Rewrite:
@@ -220,9 +226,10 @@ metadata:
   The Twelve Chairs:
     content_rating: PG
   The Winning Season:
+    match:
+      mapping_id: 44750
     alt_title: Seeking for Justice Children
     originally_available: 2009-01-19T00:00:00.000Z
-    year: 2023
   Victory Through Air Power:
     content_rating: Approved
   Waiting for the Barbarians:

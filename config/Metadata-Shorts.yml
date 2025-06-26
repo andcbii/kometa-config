@@ -1,8 +1,12 @@
 metadata:
   A Day in the Life of Donald Duck:
+    match:
+      mapping_id: 1366270
     alt_title: A Day in the Life of Donald Duck
     content_rating: G
-    tmdb_show: 4231
+    # tmdb_show: 4231
+  Gone Nutty:
+    content_rating: PG
   
   #Run again only works with local files. Does not work with Github!
   # run_again: true

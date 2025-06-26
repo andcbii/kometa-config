@@ -10,3 +10,4 @@ dynamic_collections:
     template: Hallmarkish
     type: tmdb_collection
     remove_suffix: "Collection"
+#TEST

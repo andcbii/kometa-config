@@ -27,13 +27,11 @@ metadata:
     sort_title: Batman_1992
   'Batman v Superman: Dawn of Justice':
     sort_title: Batman_2016
-  Batman1:
+  'Batman: The Movie':
     sort_title: Batman_1966
-    title: Batman
     year: 1966
-  Batman2:
+  Batman:
     sort_title: Batman_1989
-    title: Batman
     year: 1989
   'Battlestar Galactica: Razor':
     content_rating: TV-14

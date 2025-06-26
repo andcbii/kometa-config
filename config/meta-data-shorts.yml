@@ -4,5 +4,5 @@ metadata:
     content_rating: G
     tmdb_show: 4231
   
-  #Run again only works with local files. Does not work with Github
+  #Run again only works with local files. Does not work with Github!
   # run_again: true

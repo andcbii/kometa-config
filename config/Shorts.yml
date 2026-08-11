@@ -33,8 +33,6 @@ collections:
       - 98857
       - 367326
       - 421725
-    tmdb_movie_details:
-      - 17963 Ice Age
   Pixar Short Films Collection:
     template:
       name: manual-shorts-collection
@@ -84,7 +82,6 @@ collections:
     tmdb_movie:
       - 116440
       - 673595
-      - 1045177
       - 825597
       - 846214
       - 877183

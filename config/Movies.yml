@@ -201,6 +201,8 @@ dynamic_collections:
     type: tmdb_collection
     remove_suffix: "Collection"
     exclude:
+      - 1744960 # Studio Ghibli Collection; keep the manually curated Trakt collection
+      - 708816 # Power Rangers Collection; keep the manually curated collection
       - 34055 #Pokémon Collection
       - 661029 #Pokémon: XY Collection
       - 661028 #Pokémon: Best Wishes! Collection

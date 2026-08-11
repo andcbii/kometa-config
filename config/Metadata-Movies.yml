@@ -197,6 +197,22 @@ metadata:
     content_rating: TV-PG
   'Skin: A History of Nudity in the Movies':
     content_rating: R
+  Spider-Man:
+    sort_title: Spider-Man-01_2002
+  Spider-Man 2:
+    sort_title: Spider-Man-01_2004
+  Spider-Man 3:
+    sort_title: Spider-Man-01_2007
+  'Spider-Man: Homecoming':
+    sort_title: Spider-Man-02_2017
+  'Spider-Man: Far from Home':
+    sort_title: Spider-Man-02_2019
+  'Spider-Man: No Way Home':
+    sort_title: Spider-Man-02_2021
+  'Spider-Man: Into the Spider-Verse':
+    sort_title: Spider-Man-03_2018
+  'Spider-Man: Across the Spider-Verse':
+    sort_title: Spider-Man-03_2023
   Taylor Hawkins Tribute Concert:
     match:
       mapping_id: 1013901

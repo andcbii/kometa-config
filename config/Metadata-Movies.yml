@@ -1,262 +1,1306 @@
 metadata:
-  A Parks and Recreation Special:
+  2_fast_2_furious:
+    match:
+      mapping_id: 584
+    sort_title: "Fast & Furious 2003"
+  a_parks_and_recreation_special:
+    match:
+      mapping_id: 696507
     content_rating: TV-14
-  Almost Heaven:
+  alien_1979_theatrical:
+    match:
+      mapping_id: 348
+      edition: "Theatrical"
+    sort_title: "Alien 1979.1"
+  alien_1992:
+    match:
+      mapping_id: 8077
+    sort_title: "Alien 1992"
+  alien_2003_director_s_cut:
+    match:
+      mapping_id: 348
+      edition: "2003 Director's Cut"
+    sort_title: "Alien 1979.2"
+  alien_covenant:
+    match:
+      mapping_id: 126889
+    sort_title: "Alien 2017"
+  alien_resurrection:
+    match:
+      mapping_id: 8078
+    sort_title: "Alien 1997"
+  alien_vs_predator:
+    match:
+      mapping_id: 395
+    sort_title: "Alien vs. Predator 1"
+  aliens:
+    match:
+      mapping_id: 679
+    sort_title: "Alien 1986"
+  aliens_vs_predator_requiem:
+    match:
+      mapping_id: 440
+    sort_title: "Alien vs. Predator 2"
+  almost_heaven:
+    match:
+      mapping_id: 89567
     content_rating: PG-13
-  'Animaniacs: Wakko''s Wish':
+  animaniacs_wakko_s_wish:
+    match:
+      mapping_id: 73901
     content_rating: TV-Y7
-  Arsenic and Old Lace:
+  arsenic_and_old_lace:
+    match:
+      mapping_id: 212
     content_rating: Approved
-  Bad Boys:
+  bad_boys:
+    match:
+      mapping_id: 9737
     sort_title: Bad Boys_1995
-  Bad Boys II:
-    sort_title: Bad Boys_2003
-  Bad Boys for Life:
+  bad_boys_for_life:
+    match:
+      mapping_id: 38700
     sort_title: Bad Boys_2020
-  'Bad Boys: Ride or Die':
+  bad_boys_ii:
+    match:
+      mapping_id: 8961
+    sort_title: Bad Boys_2003
+  bad_boys_ride_or_die:
+    match:
+      mapping_id: 573435
     sort_title: Bad Boys_2024
-  'Batman & Mr. Freeze: SubZero':
-    content_rating: TV-Y7
-  Batman & Robin:
-    sort_title: Batman_1997
-  Batman Begins:
-    sort_title: Batman_2005
-  Batman Forever:
-    sort_title: Batman_1995
-  Batman Returns:
-    sort_title: Batman_1992
-  'Batman v Superman: Dawn of Justice':
-    sort_title: Batman_2016
-  'Batman: The Movie':
-    sort_title: Batman_1966
-    year: 1966
-  Batman:
+  batman:
+    match:
+      mapping_id: 268
     sort_title: Batman_1989
     year: 1989
-  'Battlestar Galactica: Razor':
-    content_rating: TV-14
-  'Battlestar Galactica: The Plan':
-    content_rating: TV-14
-  Bells Are Ringing:
-    content_rating: Approved
-  Bullitt:
-    content_rating: PG
-  Chase Me:
+  batman_begins:
+    match:
+      mapping_id: 272
+    sort_title: Batman_2005
+  batman_forever:
+    match:
+      mapping_id: 414
+    sort_title: Batman_1995
+  batman_mr_freeze_subzero:
+    match:
+      mapping_id: 15805
     content_rating: TV-Y7
-  Clarissa:
+  batman_returns:
+    match:
+      mapping_id: 364
+    sort_title: Batman_1992
+  batman_robin:
+    match:
+      mapping_id: 415
+    sort_title: Batman_1997
+  batman_the_movie:
+    match:
+      mapping_id: 2661
+    sort_title: Batman_1966
+    year: 1966
+  batman_v_superman_dawn_of_justice:
+    match:
+      mapping_id: 209112
+    sort_title: Batman_2016
+  battlestar_galactica_razor:
+    match:
+      mapping_id: 69315
+    content_rating: TV-14
+  battlestar_galactica_the_plan:
+    match:
+      mapping_id: 105077
+    content_rating: TV-14
+  bells_are_ringing:
+    match:
+      mapping_id: 43029
+    content_rating: Approved
+  blade_runner_2049:
+    match:
+      mapping_id: 335984
+    sort_title: "Blade Runner 2017"
+  blade_runner_final_cut:
+    match:
+      mapping_id: 78
+      edition: "Final Cut"
+    sort_title: "Blade Runner 1982.2"
+  blade_runner_theatrical:
+    match:
+      mapping_id: 78
+      edition: "Theatrical"
+    sort_title: "Blade Runner 1982.1"
+  bullitt:
+    match:
+      mapping_id: 916
+    content_rating: PG
+  captain_america_civil_war:
+    match:
+      mapping_id: 271110
+    sort_title: "Captain America 3"
+  captain_america_the_first_avenger:
+    match:
+      mapping_id: 1771
+    sort_title: "Captain America 1"
+  captain_america_the_winter_soldier:
+    match:
+      mapping_id: 100402
+    sort_title: "Captain America 2"
+  chase_me:
+    match:
+      mapping_id: 106583
+    content_rating: TV-Y7
+  clarissa:
+    match:
+      mapping_id: 395957
     content_rating: TV-G
-  CODA:
+  close_encounters_of_the_third_kind_1977_directors_cut:
+    match:
+      mapping_id: 840
+      edition: "Directors Cut"
+    sort_title: "Close Encounters of the Third Kind 02"
+  close_encounters_of_the_third_kind_1977_special_edition:
+    match:
+      mapping_id: 840
+      edition: "Special Edition"
+    sort_title: "Close Encounters of the Third Kind 03"
+  close_encounters_of_the_third_kind_1977_theatrical:
+    match:
+      mapping_id: 840
+      edition: "Theatrical"
+    sort_title: "Close Encounters of the Third Kind 01"
+  coda:
+    match:
+      mapping_id: 776503
     content_rating: PG-13
-  Cool Hand Luke:
+  cool_hand_luke:
+    match:
+      mapping_id: 903
     content_rating: PG
-  Diamonds Are Forever:
+  diamonds_are_forever:
+    match:
+      mapping_id: 681
     content_rating: PG
-  Dinner Aboard the Bebop:
+  dinner_aboard_the_bebop:
+    match:
+      mapping_id: 630996
     content_rating: NR
-  'Dragon Ball Z: Broly - Second Coming':
+  divergent:
+    match:
+      mapping_id: 157350
+    sort_title: "Divergent 2014"
+  dragon_ball_curse_of_the_blood_rubies:
+    match:
+      mapping_id: 39144
+    sort_title: "Dragon Ball 1 1986"
+  dragon_ball_mystical_adventure:
+    match:
+      mapping_id: 116776
+    sort_title: "Dragon Ball 1 1988"
+  dragon_ball_sleeping_princess_in_devil_s_castle:
+    match:
+      mapping_id: 39145
+    sort_title: "Dragon Ball 1 1987"
+  dragon_ball_super_broly:
+    match:
+      mapping_id: 503314
+    sort_title: "Dragon Ball 4 2018"
+  dragon_ball_the_path_to_power:
+    match:
+      mapping_id: 39148
+    content_rating: PG-13
+  dragon_ball_z_battle_of_gods:
+    match:
+      mapping_id: 126963
+    sort_title: "Dragon Ball 2 2013"
+  dragon_ball_z_bio_broly:
+    match:
+      mapping_id: 39106
+    sort_title: "Dragon Ball 2 1994.2"
+  dragon_ball_z_bojack_unbound:
+    match:
+      mapping_id: 39105
+    sort_title: "Dragon Ball 2 1993.2"
+  dragon_ball_z_broly_second_coming:
     match:
       mapping_id: 44251
     content_rating: PG-13
-  'Dragon Ball Z: Cooler''s Revenge':
+  dragon_ball_z_broly_the_legendary_super_saiyan:
+    match:
+      mapping_id: 34433
+    sort_title: "Dragon Ball 2 1993.1"
+  dragon_ball_z_cooler_s_revenge:
+    match:
+      mapping_id: 24752
     content_rating: PG-13
-  'Dragon Ball Z: Dead Zone':
+  dragon_ball_z_dead_zone:
+    match:
+      mapping_id: 28609
     content_rating: PG-13
-  'Dragon Ball Z: Lord Slug':
+  dragon_ball_z_fusion_reborn:
+    match:
+      mapping_id: 39107
+    sort_title: "Dragon Ball 2 1995.1"
+  dragon_ball_z_lord_slug:
+    match:
+      mapping_id: 39102
     content_rating: PG-13
-  'Dragon Ball Z: Resurrection ''F''':
+  dragon_ball_z_resurrection_f:
+    match:
+      mapping_id: 303857
     content_rating: PG-13
-  'Dragon Ball Z: The Return of Cooler':
+  dragon_ball_z_super_android_13:
+    match:
+      mapping_id: 39104
+    sort_title: "Dragon Ball 2 1992.2"
+  dragon_ball_z_the_return_of_cooler:
+    match:
+      mapping_id: 39103
     content_rating: PG-13
-  'Dragon Ball Z: The Tree of Might':
+  dragon_ball_z_the_tree_of_might:
+    match:
+      mapping_id: 39101
     content_rating: PG-13
-  'Dragon Ball Z: The World''s Strongest':
+  dragon_ball_z_the_world_s_strongest:
+    match:
+      mapping_id: 39100
     content_rating: PG-13
-  'Dragon Ball: The Path to Power':
+  dragon_ball_z_wrath_of_the_dragon:
+    match:
+      mapping_id: 39108
+    sort_title: "Dragon Ball 2 1995.2"
+  dungeons_dragons_wrath_of_the_dragon_god:
+    match:
+      mapping_id: 9288
     content_rating: PG-13
-  'Dungeons & Dragons: Wrath of the Dragon God':
-    content_rating: PG-13
-  'Emma''s Wings: A Bella Sara Tale':
+  emma_s_wings_a_bella_sara_tale:
+    match:
+      mapping_id: 251375
     content_rating: TV-G
-  'Foo Fighters: Guardian Angels':
+  evil_dead_ii:
+    match:
+      mapping_id: 765
+    sort_title: "Evil Dead 1987"
+  f9_the_fast_saga:
+    match:
+      mapping_id: 385128
+    sort_title: "Fast & Furious 2021"
+  fantastic_four_2005:
+    match:
+      mapping_id: 9738
+    sort_title: "Fantastic Four 2005"
+  fantastic_four_2015:
+    match:
+      mapping_id: 166424
+    sort_title: "Fantastic Four 2015"
+  fast_five:
+    match:
+      mapping_id: 51497
+    sort_title: "Fast & Furious 2011"
+  fast_furious:
+    match:
+      mapping_id: 13804
+    sort_title: "Fast & Furious 2009"
+  fast_furious_6:
+    match:
+      mapping_id: 82992
+    sort_title: "Fast & Furious 2013"
+  fast_furious_presents_hobbs_shaw:
+    match:
+      mapping_id: 384018
+    sort_title: "Fast & Furious 2019"
+  foo_fighters_guardian_angels:
+    match:
+      mapping_id: 105354
     content_rating: NR
-  Funny Face:
+  frozen:
+    match:
+      mapping_id: 109445
+    sort_title: "Frozen 2013"
+  frozen_ii:
+    match:
+      mapping_id: 330457
+    sort_title: "Frozen 2019"
+  funny_face:
+    match:
+      mapping_id: 13320
     content_rating: Approved
-  Gidget:
+  furious_7:
+    match:
+      mapping_id: 168259
+    sort_title: "Fast & Furious 2015"
+  ghostbusters:
+    match:
+      mapping_id: 620
+    sort_title: "Ghostbusters 1984"
+  ghostbusters_afterlife:
+    match:
+      mapping_id: 425909
+    sort_title: "Ghostbusters 2021"
+  ghostbusters_answer_the_call:
+    match:
+      mapping_id: 43074
+    sort_title: "Ghostbusters 2016"
+  ghostbusters_ii:
+    match:
+      mapping_id: 2978
+    sort_title: "Ghostbusters 1989"
+  gidget:
+    match:
+      mapping_id: 43096
     content_rating: Approved
-  Guys and Dolls:
+  godzilla:
+    match:
+      mapping_id: 1678
+    sort_title: "Godzilla 1954"
+  godzilla_final_wars:
+    match:
+      mapping_id: 15767
+    sort_title: "Godzilla 2004"
+  godzilla_king_of_the_monsters:
+    match:
+      mapping_id: 373571
+    sort_title: "Godzilla 2019"
+  godzilla_tokyo_s_o_s:
+    match:
+      mapping_id: 39469
+    sort_title: "Godzilla 2003"
+  godzilla_vs_kong:
+    match:
+      mapping_id: 399566
+    sort_title: "Godzilla 2021"
+  guys_and_dolls:
+    match:
+      mapping_id: 4825
     content_rating: Approved
-  'Half-Shell Heroes: Blast to the Past':
+  half_shell_heroes_blast_to_the_past:
+    match:
+      mapping_id: 366861
     content_rating: TV-Y7
-  Happy Holidays With Frank & Bing:
+  happy_holidays_with_frank_bing:
     match:
       mapping_id: 708829
     content_rating: G
-  Heartless:
+  harry_potter_and_the_chamber_of_secrets:
+    match:
+      mapping_id: 672
+    sort_title: "Harry Potter 2002"
+  harry_potter_and_the_deathly_hallows_part_1:
+    match:
+      mapping_id: 12444
+    sort_title: "Harry Potter 2010"
+  harry_potter_and_the_deathly_hallows_part_2:
+    match:
+      mapping_id: 12445
+    sort_title: "Harry Potter 2011"
+  harry_potter_and_the_goblet_of_fire:
+    match:
+      mapping_id: 674
+    sort_title: "Harry Potter 2005"
+  harry_potter_and_the_half_blood_prince:
+    match:
+      mapping_id: 767
+    sort_title: "Harry Potter 2009"
+  harry_potter_and_the_order_of_the_phoenix:
+    match:
+      mapping_id: 675
+    sort_title: "Harry Potter 2007"
+  harry_potter_and_the_prisoner_of_azkaban:
+    match:
+      mapping_id: 673
+    sort_title: "Harry Potter 2004"
+  harry_potter_and_the_sorcerer_s_stone:
+    match:
+      mapping_id: 671
+    sort_title: "Harry Potter 2001"
+  heartless:
+    match:
+      mapping_id: 38150
     content_rating: R
-  High Society:
+  high_society:
+    match:
+      mapping_id: 11424
     content_rating: Approved
-  How the Grinch Stole Christmas!:
+  highlander:
+    match:
+      mapping_id: 8009
+    sort_title: "Highlander 1986"
+  highlander_ii_renegade_version:
+    match:
+      mapping_id: 8010
+      edition: "Renegade Version"
+    sort_title: "Highlander 1991.2"
+  highlander_ii_the_quickening_theatrical_version:
+    match:
+      mapping_id: 8010
+      edition: "Theatrical Version"
+    sort_title: "Highlander 1991.1"
+  highlander_the_source:
+    match:
+      mapping_id: 13360
+    sort_title: "Highlander 2007"
+  how_the_grinch_stole_christmas:
+    match:
+      mapping_id: 13377
     content_rating: TV-G
-  In Search of Dr. Seuss:
+  ice_age:
+    match:
+      mapping_id: 425
+    sort_title: "Ice Age 2002"
+  ice_age_dawn_of_the_dinosaurs:
+    match:
+      mapping_id: 8355
+    sort_title: "Ice Age 2009"
+  in_search_of_dr_seuss:
+    match:
+      mapping_id: 47176
     content_rating: TV-G
-  It's Magic, Charlie Brown:
+  indiana_jones_and_the_kingdom_of_the_crystal_skull:
+    match:
+      mapping_id: 217
+    sort_title: "Indiana Jones 2008"
+  indiana_jones_and_the_last_crusade:
+    match:
+      mapping_id: 89
+    sort_title: "Indiana Jones 1989"
+  indiana_jones_and_the_temple_of_doom:
+    match:
+      mapping_id: 87
+    sort_title: "Indiana Jones 1984"
+  iron_man:
+    match:
+      mapping_id: 1726
+    sort_title: "Iron Man 2008"
+  iron_man_2:
+    match:
+      mapping_id: 10138
+    sort_title: "Iron Man 2010"
+  iron_man_3:
+    match:
+      mapping_id: 68721
+    sort_title: "Iron Man 2013"
+  it_s_magic_charlie_brown:
+    match:
+      mapping_id: 37490
     content_rating: TV-G
-  It's the Great Pumpkin, Charlie Brown:
+  it_s_the_great_pumpkin_charlie_brown:
+    match:
+      mapping_id: 13353
     content_rating: TV-G
-  Jeremiah Johnson:
+  jeremiah_johnson:
+    match:
+      mapping_id: 11943
     content_rating: PG
-  Killer Joe:
+  jumanji:
+    match:
+      mapping_id: 8844
+    sort_title: "Jumanji 1995"
+  jumanji_the_next_level:
+    match:
+      mapping_id: 512200
+    sort_title: "Jumanji 2019"
+  jumanji_welcome_to_the_jungle:
+    match:
+      mapping_id: 353486
+    sort_title: "Jumanji 2017"
+  jurassic_park:
+    match:
+      mapping_id: 329
+    sort_title: "Jurassic Park 1993"
+  jurassic_park_iii:
+    match:
+      mapping_id: 331
+    sort_title: "Jurassic Park 2001"
+  jurassic_world:
+    match:
+      mapping_id: 135397
+    sort_title: "Jurassic Park 2015"
+  jurassic_world_fallen_kingdom:
+    match:
+      mapping_id: 351286
+    sort_title: "Jurassic Park 2018"
+  killer_joe:
+    match:
+      mapping_id: 73567
     content_rating: NC-17
-  Kites:
+  kingsman_the_golden_circle:
+    match:
+      mapping_id: 343668
+    sort_title: "Kingsman 2017"
+  kingsman_the_secret_service:
+    match:
+      mapping_id: 207703
+    sort_title: "Kingsman 2014"
+  kites:
+    match:
+      mapping_id: 37737
     content_rating: PG-13
-  'LEGO Jurassic World: The Indominus Escape':
+  lego_batman_the_movie_dc_super_heroes_unite:
+    match:
+      mapping_id: 177271
     content_rating: TV-G
-  'Lego Batman: The Movie - DC Super Heroes Unite':
+  lego_dc_comics_super_heroes_justice_league_cosmic_clash:
+    match:
+      mapping_id: 382512
     content_rating: TV-G
-  'Lego DC Comics Super Heroes: Justice League - Cosmic Clash':
+  lego_dc_comics_superheroes_justice_league_gotham_city_breakout:
+    match:
+      mapping_id: 396330
     content_rating: TV-G
-  'Lego DC Comics Superheroes: Justice League - Gotham City Breakout':
+  lego_dc_super_heroes_justice_league_attack_of_the_legion_of_doom:
+    match:
+      mapping_id: 353595
     content_rating: TV-G
-  'Lego DC Super Heroes: Justice League - Attack of the Legion of Doom!':
+  lego_jurassic_world_the_indominus_escape:
+    match:
+      mapping_id: 419566
     content_rating: TV-G
-  Lost Transmissions:
+  lost_transmissions:
+    match:
+      mapping_id: 535987
     content_rating: R
-  'Marvel Rising: Secret Warriors':
+  marvel_rising_secret_warriors:
+    match:
+      mapping_id: 491633
     content_rating: TV-Y7
-  'Memo from Bebop: The Dub Sessions Remembered':
+  memo_from_bebop_the_dub_sessions_remembered:
+    match:
+      mapping_id: 914223
     content_rating: NR
-  Miracle on 34th Street:
+  men_in_black:
+    match:
+      mapping_id: 607
+    sort_title: "Men in Black 1997"
+  men_in_black_international:
+    match:
+      mapping_id: 479455
+    sort_title: "Men in Black 2019"
+  miracle_on_34th_street:
+    match:
+      mapping_id: 11881
     content_rating: Approved
-  'Mission: Impossible':
+  mission_impossible:
+    match:
+      mapping_id: 954
     sort_title: Mission_Impossible_1996
-  'Mission: Impossible - Dead Reckoning':
+  mission_impossible_dead_reckoning:
+    match:
+      mapping_id: 575264
     sort_title: Mission_Impossible_2023
-  'Mission: Impossible - Fallout':
+  mission_impossible_fallout:
+    match:
+      mapping_id: 353081
     sort_title: Mission_Impossible_2018
-  'Mission: Impossible - Ghost Protocol':
+  mission_impossible_ghost_protocol:
+    match:
+      mapping_id: 56292
     sort_title: Mission_Impossible_2011
-  'Mission: Impossible - Rogue Nation':
-    sort_title: Mission_Impossible_2015
-  'Mission: Impossible II':
+  mission_impossible_ii:
+    match:
+      mapping_id: 955
     sort_title: Mission_Impossible_2000
-  'Mission: Impossible III':
+  mission_impossible_iii:
+    match:
+      mapping_id: 956
     sort_title: Mission_Impossible_2006
-  Mr. Deeds Goes to Town:
+  mission_impossible_rogue_nation:
+    match:
+      mapping_id: 177677
+    sort_title: Mission_Impossible_2015
+  mr_deeds_goes_to_town:
+    match:
+      mapping_id: 24807
     content_rating: Approved
-  Mr. Jones:
+  mr_jones:
+    match:
+      mapping_id: 509598
     content_rating: PG-13
-  One Small Hitch:
+  naked_gun_33_1_3_the_final_insult:
+    match:
+      mapping_id: 36593
+    sort_title: "Naked Gun 1994"
+  ocean_s_eleven:
+    match:
+      mapping_id: 161
+    sort_title: "Ocean's 2001"
+  ocean_s_thirteen:
+    match:
+      mapping_id: 298
+    sort_title: "Ocean's 2007"
+  ocean_s_twelve:
+    match:
+      mapping_id: 163
+    sort_title: "Ocean's 2004"
+  one_small_hitch:
+    match:
+      mapping_id: 166879
     content_rating: PG-13
-  Peter Pan1955:
+  peter_pan_1955:
     match:
       mapping_id: 368186
     content_rating: TV-G
     title: Peter Pan
     year: 1955
-  Peter Pan1956:
+  peter_pan_1956:
     match:
       mapping_id: 721710
     content_rating: TV-G
     title: Peter Pan
     year: 1956
-  Peter Pan1960:
+  peter_pan_1960:
     match:
       mapping_id: 51120
     content_rating: TV-G
     title: Peter Pan
     year: 1960
-  Pirates of Silicon Valley:
+  pirates_of_silicon_valley:
+    match:
+      mapping_id: 3293
     content_rating: TV-MA
-  'Pokémon the Movie: Black - Victini and Reshiram':
+  pirates_of_the_caribbean_the_curse_of_the_black_pearl:
+    match:
+      mapping_id: 22
+    sort_title: "Pirates 2003"
+  pokemon_3_the_movie:
+    match:
+      mapping_id: 10991
+    sort_title: "Pokemon 2000"
+  pokemon_4ever:
+    match:
+      mapping_id: 12600
+    sort_title: "Pokemon 2001"
+  pokemon_arceus_and_the_jewel_of_life:
+    match:
+      mapping_id: 39057
+    sort_title: "Pokemon 2009"
+  pokemon_destiny_deoxys:
+    match:
+      mapping_id: 34065
+    sort_title: "Pokemon 2004"
+  pokemon_destiny_deoxys_2004:
+    match:
+      mapping_id: 34065
     content_rating: TV-Y7
-  'Pokémon the Movie: Diancie and the Cocoon of Destruction':
+  pokemon_giratina_and_the_sky_warrior:
+    match:
+      mapping_id: 47292
+    sort_title: "Pokemon 2008"
+  pokemon_giratina_and_the_sky_warrior_2008:
+    match:
+      mapping_id: 47292
     content_rating: TV-Y7
-  'Pokémon the Movie: Kyurem vs. the Sword of Justice':
+  pokemon_heroes:
+    match:
+      mapping_id: 33875
+    sort_title: "Pokemon 2002"
+  pokemon_jirachi_wish_maker:
+    match:
+      mapping_id: 36218
+    sort_title: "Pokemon 2003"
+  pokemon_jirachi_wish_maker_2003:
+    match:
+      mapping_id: 36218
     content_rating: TV-Y7
-  'Pokémon the Movie: The Power of Us':
+  pokemon_lucario_and_the_mystery_of_mew:
+    match:
+      mapping_id: 34067
+    sort_title: "Pokemon 2005"
+  pokemon_lucario_and_the_mystery_of_mew_2005:
+    match:
+      mapping_id: 34067
     content_rating: TV-Y7
-  'Pokémon the Movie: White - Victini and Zekrom':
+  pokemon_mewtwo_returns:
+    match:
+      mapping_id: 36897
+    sort_title: "Pokemon 2000"
+  pokemon_mewtwo_returns_2000:
+    match:
+      mapping_id: 36897
     content_rating: TV-Y7
-  'Pokémon: Destiny Deoxys':
+  pokemon_ranger_and_the_temple_of_the_sea:
+    match:
+      mapping_id: 16808
+    sort_title: "Pokemon 2006"
+  pokemon_the_first_movie:
+    match:
+      mapping_id: 10228
+    sort_title: "Pokemon 1998"
+  pokemon_the_movie_2000:
+    match:
+      mapping_id: 12599
+    sort_title: "Pokemon 1999"
+  pokemon_the_movie_black_victini_and_reshiram:
+    match:
+      mapping_id: 115223
+    sort_title: "Pokemon 2011"
+  pokemon_the_movie_black_victini_and_reshiram_2011:
+    match:
+      mapping_id: 115223
     content_rating: TV-Y7
-  'Pokémon: Giratina and the Sky Warrior':
+  pokemon_the_movie_diancie_and_the_cocoon_of_destruction:
+    match:
+      mapping_id: 303903
+    sort_title: "Pokemon 2014"
+  pokemon_the_movie_diancie_and_the_cocoon_of_destruction_2014:
+    match:
+      mapping_id: 303903
     content_rating: TV-Y7
-  'Pokémon: Jirachi Wish Maker':
+  pokemon_the_movie_genesect_and_the_legend_awakened:
+    match:
+      mapping_id: 227679
+    sort_title: "Pokemon 2013"
+  pokemon_the_movie_hoopa_and_the_clash_of_ages:
+    match:
+      mapping_id: 350499
+    sort_title: "Pokemon 2015"
+  pokemon_the_movie_i_choose_you:
+    match:
+      mapping_id: 436931
+    sort_title: "Pokemon 2017"
+  pokemon_the_movie_kyurem_vs_the_sword_of_justice:
+    match:
+      mapping_id: 150213
+    sort_title: "Pokemon 2012"
+  pokemon_the_movie_kyurem_vs_the_sword_of_justice_2012:
+    match:
+      mapping_id: 150213
     content_rating: TV-Y7
-  'Pokémon: Lucario and the Mystery of Mew':
+  pokemon_the_movie_mewtwo_strikes_back_evolution:
+    match:
+      mapping_id: 571891
+    sort_title: "Pokemon 2019"
+  pokemon_the_movie_the_power_of_us:
+    match:
+      mapping_id: 494407
+    sort_title: "Pokemon 2018"
+  pokemon_the_movie_the_power_of_us_2018:
+    match:
+      mapping_id: 494407
     content_rating: TV-Y7
-  'Pokémon: Mewtwo Returns':
+  pokemon_the_movie_volcanion_and_the_mechanical_marvel:
+    match:
+      mapping_id: 382190
+    sort_title: "Pokemon 2016"
+  pokemon_the_movie_white_victini_and_zekrom:
+    match:
+      mapping_id: 88557
+    sort_title: "Pokemon 2011"
+  pokemon_the_movie_white_victini_and_zekrom_2011:
+    match:
+      mapping_id: 88557
     content_rating: TV-Y7
-  'Pokémon: The Rise of Darkrai':
+  pokemon_the_rise_of_darkrai:
+    match:
+      mapping_id: 25961
+    sort_title: "Pokemon 2007"
+  pokemon_the_rise_of_darkrai_2007:
+    match:
+      mapping_id: 25961
     content_rating: TV-Y7
-  'Pokémon: Zoroark - Master of Illusions':
+  pokemon_zoroark_master_of_illusions:
+    match:
+      mapping_id: 50087
+    sort_title: "Pokemon 2010"
+  pokemon_zoroark_master_of_illusions_2010:
+    match:
+      mapping_id: 50087
     content_rating: TV-Y7
-  Ride the Eagle:
+  predator:
+    match:
+      mapping_id: 106
+    sort_title: "Predator 1987"
+  raiders_of_the_lost_ark:
+    match:
+      mapping_id: 85
+    sort_title: "Indiana Jones 1981"
+  resident_evil:
+    match:
+      mapping_id: 1576
+    sort_title: "Resident Evil 2002"
+  resident_evil_afterlife:
+    match:
+      mapping_id: 35791
+    sort_title: "Resident Evil 2010"
+  resident_evil_apocalypse:
+    match:
+      mapping_id: 1577
+    sort_title: "Resident Evil 2004"
+  resident_evil_damnation:
+    match:
+      mapping_id: 133121
+    sort_title: "Resident Evil Animation 2012"
+  resident_evil_degeneration:
+    match:
+      mapping_id: 13648
+    sort_title: "Resident Evil Animation 2008"
+  resident_evil_extinction:
+    match:
+      mapping_id: 7737
+    sort_title: "Resident Evil 2007"
+  resident_evil_retribution:
+    match:
+      mapping_id: 71679
+    sort_title: "Resident Evil 2012"
+  resident_evil_vendetta:
+    match:
+      mapping_id: 400136
+    sort_title: "Resident Evil Animation 2017"
+  ride_the_eagle:
+    match:
+      mapping_id: 830991
     content_rating: R
-  Servant of the People 2:
+  rocky:
+    match:
+      mapping_id: 1366
+    sort_title: "Rocky 1976"
+  rocky_balboa:
+    match:
+      mapping_id: 1246
+    sort_title: "Rocky 2006"
+  rocky_ii:
+    match:
+      mapping_id: 1367
+    sort_title: "Rocky 1979"
+  rocky_iii:
+    match:
+      mapping_id: 1371
+    sort_title: "Rocky 1982"
+  rocky_iv_1985_rocky_iv_rocky_vs_drago:
+    match:
+      mapping_id: 1374
+      edition: "Rocky IV- Rocky Vs. Drago"
+    sort_title: "Rocky 1985.2"
+  rocky_iv_1985_theatrical:
+    match:
+      mapping_id: 1374
+      edition: "Theatrical"
+    sort_title: "Rocky 1985.1"
+  rocky_v:
+    match:
+      mapping_id: 1375
+    sort_title: "Rocky 1990"
+  rogue_one_a_star_wars_story:
+    match:
+      mapping_id: 330459
+    sort_title: "Star Wars 3.1"
+  servant_of_the_people_2:
+    match:
+      mapping_id: 430266
     content_rating: TV-PG
-  'Skin: A History of Nudity in the Movies':
+  skin_a_history_of_nudity_in_the_movies:
+    match:
+      mapping_id: 722926
     content_rating: R
-  Spider-Man:
+  spider_man:
+    match:
+      mapping_id: 557
     sort_title: Spider-Man-01_2002
-  Spider-Man 2:
+  spider_man_2:
+    match:
+      mapping_id: 558
     sort_title: Spider-Man-01_2004
-  Spider-Man 3:
+  spider_man_3:
+    match:
+      mapping_id: 559
     sort_title: Spider-Man-01_2007
-  'Spider-Man: Homecoming':
-    sort_title: Spider-Man-02_2017
-  'Spider-Man: Far from Home':
-    sort_title: Spider-Man-02_2019
-  'Spider-Man: No Way Home':
-    sort_title: Spider-Man-02_2021
-  'Spider-Man: Into the Spider-Verse':
-    sort_title: Spider-Man-03_2018
-  'Spider-Man: Across the Spider-Verse':
+  spider_man_across_the_spider_verse:
+    match:
+      mapping_id: 569094
     sort_title: Spider-Man-03_2023
-  Taylor Hawkins Tribute Concert:
+  spider_man_far_from_home:
+    match:
+      mapping_id: 429617
+    sort_title: Spider-Man-02_2019
+  spider_man_homecoming:
+    match:
+      mapping_id: 315635
+    sort_title: Spider-Man-02_2017
+  spider_man_into_the_spider_verse:
+    match:
+      mapping_id: 324857
+    sort_title: Spider-Man-03_2018
+  spider_man_no_way_home:
+    match:
+      mapping_id: 634649
+    sort_title: Spider-Man-02_2021
+  star_trek:
+    match:
+      mapping_id: 13475
+    sort_title: "Star Trek 2009"
+  star_trek_beyond:
+    match:
+      mapping_id: 188927
+    sort_title: "Star Trek 2016"
+  star_trek_first_contact:
+    match:
+      mapping_id: 199
+    sort_title: "Star Trek 1996"
+  star_trek_generations:
+    match:
+      mapping_id: 193
+    sort_title: "Star Trek 1994"
+  star_trek_ii_the_wrath_of_khan:
+    match:
+      mapping_id: 154
+    sort_title: "Star Trek 1982"
+  star_trek_iii_the_search_for_spock:
+    match:
+      mapping_id: 157
+    sort_title: "Star Trek 1984"
+  star_trek_insurrection:
+    match:
+      mapping_id: 200
+    sort_title: "Star Trek 1998"
+  star_trek_into_darkness:
+    match:
+      mapping_id: 54138
+    sort_title: "Star Trek 2013"
+  star_trek_iv_the_voyage_home:
+    match:
+      mapping_id: 168
+    sort_title: "Star Trek 1986"
+  star_trek_nemesis:
+    match:
+      mapping_id: 201
+    sort_title: "Star Trek 2020"
+  star_trek_the_motion_picture:
+    match:
+      mapping_id: 152
+    sort_title: "Star Trek 1979"
+  star_trek_v_the_final_frontier:
+    match:
+      mapping_id: 172
+    sort_title: "Star Trek 1989"
+  star_trek_vi_the_undiscovered_country:
+    match:
+      mapping_id: 174
+    sort_title: "Star Trek 1991"
+  star_wars_episode_i_the_phantom_menace:
+    match:
+      mapping_id: 1893
+    sort_title: "Star Wars 1"
+  star_wars_episode_ii_attack_of_the_clones:
+    match:
+      mapping_id: 1894
+    sort_title: "Star Wars 2"
+  star_wars_episode_iii_revenge_of_the_sith:
+    match:
+      mapping_id: 1895
+    sort_title: "Star Wars 3"
+  star_wars_episode_iv_a_new_hope:
+    match:
+      mapping_id: 11
+    sort_title: "Star Wars 4"
+  star_wars_episode_v_the_empire_strikes_back:
+    match:
+      mapping_id: 1891
+    sort_title: "Star Wars 5"
+  star_wars_episode_vi_return_of_the_jedi:
+    match:
+      mapping_id: 1892
+    sort_title: "Star Wars 6"
+  star_wars_episode_vii_the_force_awakens:
+    match:
+      mapping_id: 140607
+    sort_title: "Star Wars 7"
+  star_wars_episode_viii_the_last_jedi:
+    match:
+      mapping_id: 181808
+    sort_title: "Star Wars 8"
+  star_wars_the_clone_wars:
+    match:
+      mapping_id: 12180
+    sort_title: "Star Wars 2.1"
+  star_wars_the_rise_of_skywalker:
+    match:
+      mapping_id: 181812
+    sort_title: "Star Wars 9"
+  taylor_hawkins_tribute_concert:
     match:
       mapping_id: 1013901
     content_rating: TV-PG
-  The Animatrix:
+  teenage_mutant_ninja_turtles_1990:
+    match:
+      mapping_id: 1498
+    sort_title: "Teenage Mutant Ninja Turtles 1990"
+  teenage_mutant_ninja_turtles_2014:
+    match:
+      mapping_id: 98566
+    sort_title: "Teenage Mutant Ninja Turtles 2014"
+  teenage_mutant_ninja_turtles_ii_the_secret_of_the_ooze:
+    match:
+      mapping_id: 1497
+    sort_title: "Teenage Mutant Ninja Turtles 1991"
+  teenage_mutant_ninja_turtles_iii:
+    match:
+      mapping_id: 1499
+    sort_title: "Teenage Mutant Ninja Turtles 1993"
+  teenage_mutant_ninja_turtles_out_of_the_shadows:
+    match:
+      mapping_id: 308531
+    sort_title: "Teenage Mutant Ninja Turtles 2016"
+  terminator_2_judgment_day:
+    match:
+      mapping_id: 280
+    sort_title: "Terminator 1991"
+  terminator_3_rise_of_the_machines:
+    match:
+      mapping_id: 296
+    sort_title: "Terminator 2003"
+  terminator_dark_fate:
+    match:
+      mapping_id: 290859
+    sort_title: "Terminator 2019"
+  terminator_genisys:
+    match:
+      mapping_id: 87101
+    sort_title: "Terminator 2015"
+  terminator_salvation:
+    match:
+      mapping_id: 534
+    sort_title: "Terminator 2009"
+  the_animatrix:
+    match:
+      mapping_id: 24357
     content_rating: R
-  The Batman:
+  the_batman:
+    match:
+      mapping_id: 414906
     sort_title: Batman_2022
-  The Captain:
+  the_captain:
+    match:
+      mapping_id: 475094
     content_rating: R
-  The Harvey Girls:
+  the_divergent_series_allegiant:
+    match:
+      mapping_id: 262504
+    sort_title: "Divergent 2016"
+  the_divergent_series_insurgent:
+    match:
+      mapping_id: 262500
+    sort_title: "Divergent 2015"
+  the_evil_dead:
+    match:
+      mapping_id: 764
+    sort_title: "Evil Dead 1981"
+  the_fantastic_four:
+    match:
+      mapping_id: 22059
+    sort_title: "Fantastic Four 1994"
+  the_fast_and_the_furious:
+    match:
+      mapping_id: 9799
+    sort_title: "Fast & Furious 2001"
+  the_fast_and_the_furious_tokyo_drift:
+    match:
+      mapping_id: 9615
+    sort_title: "Fast & Furious 2006"
+  the_fate_of_the_furious:
+    match:
+      mapping_id: 337339
+    sort_title: "Fast & Furious 2017"
+  the_harvey_girls:
+    match:
+      mapping_id: 28907
     content_rating: Approved
-  The Inbetweeners 2:
+  the_hobbit_an_unexpected_journey:
+    match:
+      mapping_id: 49051
+    sort_title: "Hobbit 2012"
+  the_hobbit_the_battle_of_the_five_armies:
+    match:
+      mapping_id: 122917
+    sort_title: "Hobbit 2014"
+  the_hobbit_the_desolation_of_smaug:
+    match:
+      mapping_id: 57158
+    sort_title: "Hobbit 2013"
+  the_inbetweeners_2:
+    match:
+      mapping_id: 242022
     content_rating: R
-  'The Lion Guard: Return of the Roar':
+  the_lion_guard_return_of_the_roar:
+    match:
+      mapping_id: 359983
     content_rating: TV-G
-  The Philadelphia Story:
+  the_lord_of_the_rings_the_fellowship_of_the_ring:
+    match:
+      mapping_id: 120
+    sort_title: "Lord of the Rings 2001"
+  the_lord_of_the_rings_the_return_of_the_king:
+    match:
+      mapping_id: 122
+    sort_title: "Lord of the Rings 2003"
+  the_lord_of_the_rings_the_two_towers:
+    match:
+      mapping_id: 121
+    sort_title: "Lord of the Rings 2002"
+  the_lost_world_jurassic_park:
+    match:
+      mapping_id: 330
+    sort_title: "Jurassic Park 1997"
+  the_matrix:
+    match:
+      mapping_id: 603
+    sort_title: "Matrix 1999"
+  the_matrix_reloaded:
+    match:
+      mapping_id: 604
+    sort_title: "Matrix 2003.1"
+  the_matrix_resurrections:
+    match:
+      mapping_id: 624860
+    sort_title: "Matrix 2021"
+  the_matrix_revolutions:
+    match:
+      mapping_id: 605
+    sort_title: "Matrix 2003.2"
+  the_naked_gun_2_the_smell_of_fear:
+    match:
+      mapping_id: 37137
+    sort_title: "Naked Gun 1991"
+  the_naked_gun_from_the_files_of_police_squad:
+    match:
+      mapping_id: 37136
+    sort_title: "Naked Gun 1988"
+  the_philadelphia_story:
+    match:
+      mapping_id: 981
     content_rating: Approved
-  The Rewrite:
+  the_rewrite:
+    match:
+      mapping_id: 289727
     content_rating: PG-13
-  The Seven Year Itch:
+  the_seven_year_itch:
+    match:
+      mapping_id: 10653
     content_rating: Approved
-  The Shop Around the Corner:
+  the_shop_around_the_corner:
+    match:
+      mapping_id: 20334
     content_rating: Approved
-  The Spine of Night:
+  the_spine_of_night:
+    match:
+      mapping_id: 795522
     content_rating: NC-17
-  The Twelve Chairs:
+  the_terminator:
+    match:
+      mapping_id: 218
+    sort_title: "Terminator 1984"
+  the_transformers_the_movie:
+    match:
+      mapping_id: 1857
+    sort_title: "Transformers 1986"
+  the_twelve_chairs:
+    match:
+      mapping_id: 24918
     content_rating: PG
-  The Winning Season:
+  the_winning_season:
     match:
       mapping_id: 44750
     alt_title: Seeking for Justice Children
     originally_available: 2009-01-19T00:00:00.000Z
-  Victory Through Air Power:
+  thor:
+    match:
+      mapping_id: 10195
+    sort_title: "Thor 2011"
+  thor_ragnarok:
+    match:
+      mapping_id: 284053
+    sort_title: "Thor 2017"
+  thor_the_dark_world:
+    match:
+      mapping_id: 76338
+    sort_title: "Thor 2013"
+  transformers:
+    match:
+      mapping_id: 1858
+    sort_title: "Transformers 2007"
+  transformers_age_of_extinction:
+    match:
+      mapping_id: 91314
+    sort_title: "Transformers 2014"
+  transformers_dark_of_the_moon:
+    match:
+      mapping_id: 38356
+    sort_title: "Transformers 2011"
+  transformers_revenge_of_the_fallen:
+    match:
+      mapping_id: 8373
+    sort_title: "Transformers 2009"
+  transformers_the_last_knight:
+    match:
+      mapping_id: 335988
+    sort_title: "Transformers 2017"
+  underworld:
+    match:
+      mapping_id: 277
+    sort_title: "Underworld 2003"
+  underworld_evolution:
+    match:
+      mapping_id: 834
+    sort_title: "Underworld 2006"
+  venom:
+    match:
+      mapping_id: 335983
+    sort_title: "Venom 2018"
+  venom_let_there_be_carnage:
+    match:
+      mapping_id: 580489
+    sort_title: "Venom 2021"
+  victory_through_air_power:
+    match:
+      mapping_id: 22779
     content_rating: Approved
-  Waiting for the Barbarians:
+  waiting_for_the_barbarians:
+    match:
+      mapping_id: 505707
     content_rating: R
-  We All Fall Down:
+  we_all_fall_down:
+    match:
+      mapping_id: 477733
     content_rating: R
-  White Christmas:
+  white_christmas:
+    match:
+      mapping_id: 13368
     content_rating: Approved
-  Wuthering Heights:
+  wuthering_heights:
+    match:
+      mapping_id: 3084
     content_rating: Approved
-  Zero Charisma:
+  x2_x_men_united:
+    match:
+      mapping_id: 36658
+    sort_title: "X-Men 2003"
+  x_men:
+    match:
+      mapping_id: 36657
+    sort_title: "X-Men 2000"
+  x_men_apocalypse:
+    match:
+      mapping_id: 246655
+    sort_title: "X-Men 2016"
+  x_men_dark_phoenix:
+    match:
+      mapping_id: 320288
+    sort_title: "X-Men 2019"
+
+  x_men_days_of_future_past:
+    match:
+      mapping_id: 127585
+    sort_title: "X-Men 2014"
+  x_men_first_class:
+    match:
+      mapping_id: 49538
+    sort_title: "X-Men 2011"
+  x_men_the_last_stand:
+    match:
+      mapping_id: 36668
+    sort_title: "X-Men 2006"
+  zero_charisma:
+    match:
+      mapping_id: 169642
     content_rating: PG-13
-  Zoey's Extraordinary Christmas:
+  zoey_s_extraordinary_christmas:
+    match:
+      mapping_id: 872130
     content_rating: TV-14

@@ -1,0 +1,217 @@
+metadata:
+  aeon_flux:
+    match:
+      mapping_id: 78660
+    sort_title: "Eon Flux"
+  animaniacs_1993:
+    match:
+      mapping_id: 72879
+    sort_title: "Animaniacs 1993"
+  animaniacs_2020:
+    match:
+      mapping_id: tt6951546
+    sort_title: "Animaniacs 2020"
+  beast_machines_transformers:
+    match:
+      mapping_id: 78075
+    sort_title: "Beast Wars 1999"
+  beast_wars_transformers:
+    match:
+      mapping_id: 73562
+    sort_title: "Beast Wars 1996"
+  dragon_ball:
+    match:
+      mapping_id: 76666
+    sort_title: "Dragon Ball 1"
+  dragon_ball_gt:
+    match:
+      mapping_id: 79275
+    sort_title: "Dragon Ball 3"
+  dragon_ball_super:
+    match:
+      mapping_id: 295068
+    sort_title: "Dragon Ball 4"
+  dragon_ball_z:
+    match:
+      mapping_id: 81472
+    sort_title: "Dragon Ball 2"
+  dragon_ball_z_kai:
+    match:
+      mapping_id: 88031
+    sort_title: "Dragon Ball 2.1"
+  pokemon:
+    match:
+      mapping_id: 76703
+    sort_title: "Pokemon"
+  pokemon_horizons:
+    match:
+      mapping_id: tt26692417
+    sort_title: "Pokemon Horizons"
+  pokemon_the_arceus_chronicles:
+    match:
+      mapping_id: 415119
+    sort_title: "Pokemon: The Arceus Chronicles"
+  scooby_doo_mystery_incorporated:
+    match:
+      mapping_id: 174681
+    sort_title: "Scooby-Doo 2010"
+  scooby_doo_where_are_you:
+    match:
+      mapping_id: 78260
+    sort_title: "Scooby-Doo 1969"
+  shogun:
+    match:
+      mapping_id: 392573
+    sort_title: "Shogun"
+  star_trek:
+    match:
+      mapping_id: 77526
+    sort_title: "Star Trek 1965"
+  star_trek_deep_space_nine:
+    match:
+      mapping_id: 72073
+    sort_title: "Star Trek 1993"
+  star_trek_discovery:
+    match:
+      mapping_id: 328711
+    sort_title: "Star Trek 2007"
+  star_trek_enterprise:
+    match:
+      mapping_id: 73893
+    sort_title: "Star Trek 2001"
+  star_trek_lower_decks:
+    match:
+      mapping_id: 367138
+    sort_title: "Star Trek 2020b"
+  star_trek_picard:
+    match:
+      mapping_id: 364093
+    sort_title: "Star Trek 2020a"
+  star_trek_prodigy:
+    match:
+      mapping_id: 385811
+    sort_title: "Star Trek 2021"
+  star_trek_the_animated_series:
+    match:
+      mapping_id: 73566
+    sort_title: "Star Trek 1973"
+  star_trek_the_next_generation:
+    match:
+      mapping_id: 71470
+    sort_title: "Star Trek 1987"
+  star_trek_voyager:
+    match:
+      mapping_id: 74550
+    sort_title: "Star Trek 1995"
+  star_wars_rebels:
+    match:
+      mapping_id: 283468
+    sort_title: "Star Wars 2014"
+  star_wars_resistance:
+    match:
+      mapping_id: 351575
+    sort_title: "Star Wars 2018"
+  star_wars_clone_wars:
+    match:
+      mapping_id: 72244
+    sort_title: "Star Wars 2003"
+  star_wars_the_clone_wars:
+    match:
+      mapping_id: 83268
+    sort_title: "Star Wars 2008"
+  teenage_mutant_ninja_turtles:
+    match:
+      mapping_id: 74582
+    sort_title: "Teenage Mutant Ninja Turtles 1987"
+  teenage_mutant_ninja_turtles_2003:
+    match:
+      mapping_id: 71032
+    sort_title: "Teenage Mutant Ninja Turtles 2003"
+  teenage_mutant_ninja_turtles_2012:
+    match:
+      mapping_id: 261451
+    sort_title: "Teenage Mutant Ninja Turtles 2012"
+  the_transformers:
+    match:
+      mapping_id: 72499
+    sort_title: "Transformers 1984"
+  transformers_animated:
+    match:
+      mapping_id: 81036
+    sort_title: "Transformers 2007"
+  transformers_armada:
+    match:
+      mapping_id: 78628
+    sort_title: "Transformers 2002"
+  transformers_cyber_missions:
+    match:
+      mapping_id: 249606
+    sort_title: "Transformers 2010.1"
+  transformers_cybertron:
+    match:
+      mapping_id: 79081
+    sort_title: "Transformers 2005"
+  transformers_cyberverse:
+    match:
+      mapping_id: 352228
+    sort_title: "Transformers 2018"
+  transformers_earthspark:
+    match:
+      mapping_id: 416758
+    sort_title: "Transformers 2022"
+  transformers_energon:
+    match:
+      mapping_id: 72776
+    sort_title: "Transformers 2004"
+  transformers_prime:
+    match:
+      mapping_id: 205901
+    sort_title: "Transformers 2010.2"
+  transformers_rescue_bots:
+    match:
+      mapping_id: 256349
+    sort_title: "Transformers 2012"
+  transformers_rescue_bots_academy:
+    match:
+      mapping_id: 356622
+    sort_title: "Transformers 2019"
+  transformers_robots_in_disguise:
+    match:
+      mapping_id: 77087
+    sort_title: "Transformers 2015"
+  transformers_robots_in_disguise_2015:
+    match:
+      mapping_id: 292171
+    sort_title: "Transformers 2015"
+  transformers_super_god_masterforce:
+    match:
+      mapping_id: 78830
+    sort_title: "Transformers 1988"
+  transformers_the_headmasters:
+    match:
+      mapping_id: 71475
+    sort_title: "Transformers 1987"
+  transformers_victory:
+    match:
+      mapping_id: 71551
+    sort_title: "Transformers 1989"
+  transformers_war_for_cybertron_siege:
+    match:
+      mapping_id: 377694
+    title: "Transformers: War For Cybertron Trilogy"
+    sort_title: "Transformers 2020"
+    episode_ordering: tvdb_aired
+  transformers_war_for_cybertron_imdb:
+    match:
+      mapping_id: tt9789660
+    title: "Transformers: War For Cybertron Trilogy"
+    episode_ordering: tvdb_aired
+  transformers_war_for_cybertron_titles:
+    match:
+      title:
+        - "Transformers: War For Cybertron: Siege"
+        - "Transformers: War For Cybertron: Earthrise"
+        - "Transformers: War For Cybertron: Kingdom"
+        - "Transformers: War For Cybertron Trilogy"
+    title: "Transformers: War For Cybertron Trilogy"
+    episode_ordering: tvdb_aired

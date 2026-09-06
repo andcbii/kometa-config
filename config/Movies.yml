@@ -209,7 +209,6 @@ dynamic_collections:
       - 1753918 # kometa-auto-exclude: added=2026-08-30 expires=2026-09-20
       - 1749688 # kometa-auto-exclude: added=2026-08-25 expires=2026-09-15
       - 1714886 # kometa-auto-exclude: added=2026-08-19 expires=2026-09-09
-      - 1748339 # kometa-auto-exclude: added=2026-08-16 expires=2026-09-06
       - 1744960 # Studio Ghibli Collection; keep the manually curated Trakt collection
       - 708816 # Power Rangers Collection; keep the manually curated collection
       - 34055 #Pokémon Collection

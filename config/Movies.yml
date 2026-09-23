@@ -10,7 +10,7 @@ collections:
   100 Horror Movies:
     collection_mode: show_items
     sort_title: '!040_100 Horror Movies'
-    trakt_list: https://trakt.tv/users/andcbii/lists/100-horror-movies
+    mdblist_list: https://mdblist.com/lists/andcbii/external/28336
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1706142081/Plex%20-%20PMM%20images/HORROR78108cda6c12a0ed_quwwxd.png
   Animaniacs:
     template:
@@ -130,7 +130,8 @@ collections:
   Pixar Animation Studios:
     collection_mode: hide
     sort_title: '!030_Pixar'
-    trakt_list: https://trakt.tv/users/asterlea/lists/pixar
+#    trakt_list: https://trakt.tv/users/asterlea/lists/pixar
+    mdblist_list: https://mdblist.com/lists/blm85/pixar-animation-studios
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007506/Plex%20-%20PMM%20images/Pixar_Animation_Studios_oyznw4.jpg
   Pokémon Collection:
     template:
@@ -159,7 +160,8 @@ collections:
   Studio Ghibli:
     collection_mode: hide
     sort_title: '!030_Studio Ghibli'
-    trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
+#    trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
+    mdblist_list: https://mdblist.com/lists/blm85/studio-ghibli
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007882/Plex%20-%20PMM%20images/Studio_Ghibli_weft6f.jpg
   Superman / Batman (Animated) Collection:
     sort_title: Batman_C_Animated
@@ -185,7 +187,8 @@ collections:
   Walt Disney Animation Studios:
     collection_mode: hide
     collection_order: custom
-    trakt_list: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios?sort=rank,asc
+#    trakt_list: https://trakt.tv/users/asterlea/lists/walt-disney-animation-studios?sort=rank,asc
+    mdblist_list: https://mdblist.com/lists/blm85/walt-disney-animation-studios
     sort_title: '!030_Disney'
     sync_mode: sync
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1712007208/Plex%20-%20PMM%20images/walt_disney_animation_studios_by_sithlord38_dfnjnqf-fullview_xsgbmx.jpg

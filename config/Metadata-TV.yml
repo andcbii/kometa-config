@@ -45,7 +45,7 @@ metadata:
     sort_title: "Pokemon"
   pokemon_horizons:
     match:
-      mapping_id: tt26692417
+      mapping_id: 220150
     sort_title: "Pokemon Horizons"
   pokemon_the_arceus_chronicles:
     match:

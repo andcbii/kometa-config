@@ -5,9 +5,11 @@ templates:
     minimum_items: 2
     collection_mode: hide
   manual-collection:
+    collection_order: release
     collection_mode: hide_items 
 collections:
   100 Horror Movies:
+    collection_order: release
     collection_mode: show_items
     sort_title: '!040_100 Horror Movies'
     mdblist_list: https://mdblist.com/lists/andcbii/external/28336

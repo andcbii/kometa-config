@@ -9,7 +9,8 @@ metadata:
     sort_title: "Animaniacs 1993"
   animaniacs_2020:
     match:
-      mapping_id: tt6951546
+      title: Animaniacs
+      year: 2020
     sort_title: "Animaniacs 2020"
   beast_machines_transformers:
     match:
@@ -42,15 +43,16 @@ metadata:
   pokemon:
     match:
       mapping_id: 76703
-    sort_title: "Pokemon"
+    sort_title: "Pokemon 1997"
   pokemon_horizons:
     match:
-      mapping_id: tt26692417
-    sort_title: "Pokemon Horizons"
+      title: "Pokémon Horizons"
+      year: 2023
+    sort_title: "Pokemon 2023"
   pokemon_the_arceus_chronicles:
     match:
       mapping_id: 415119
-    sort_title: "Pokemon: The Arceus Chronicles"
+    sort_title: "Pokemon 2022"
   scooby_doo_mystery_incorporated:
     match:
       mapping_id: 174681

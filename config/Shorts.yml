@@ -1,5 +1,6 @@
 templates:
   manual-shorts-collection:
+    collection_order: release
     collection_mode: hide_items 
 collections:
   Cars Toons:

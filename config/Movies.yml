@@ -131,6 +131,7 @@ collections:
       - 696507
   Pixar Animation Studios:
     collection_mode: hide
+    collection_order: release
     sort_title: '!030_Pixar'
 #    trakt_list: https://trakt.tv/users/asterlea/lists/pixar
     mdblist_list: https://mdblist.com/lists/blm85/pixar-animation-studios
@@ -161,6 +162,7 @@ collections:
       - 334996
   Studio Ghibli:
     collection_mode: hide
+    collection_order: release
     sort_title: '!030_Studio Ghibli'
 #    trakt_list: https://trakt.tv/users/trotsig/lists/studio-ghibli-s-feature-films
     mdblist_list: https://mdblist.com/lists/blm85/studio-ghibli

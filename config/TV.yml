@@ -82,6 +82,7 @@ collections:
     tmdb_show:
       - 720
   Evil Dead:
+    collection_order: release
     tmdb_show:
       - 62264
   Friends:

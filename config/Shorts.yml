@@ -33,7 +33,7 @@ collections:
       - 98857
       - 367326
       - 421725
-  Pixar Short Films Collection:
+  Pixar Short Films:
     template:
       name: manual-shorts-collection
     tmdb_movie:
@@ -76,7 +76,7 @@ collections:
       - 483396
       - 514754
     url_poster: https://res.cloudinary.com/dkyd429md/image/upload/v1668782317/Plex%20-%20PMM%20images/pixar-short-films-collection-5223ed2f81276_vjp091.jpg
-  The Simpsons Collection:
+  The Simpsons:
     template:
       name: manual-shorts-collection
     tmdb_movie:

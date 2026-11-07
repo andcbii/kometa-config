@@ -208,6 +208,7 @@ dynamic_collections:
     type: tmdb_collection
     remove_suffix: "Collection"
     exclude:
+      - 1136366 # kometa-auto-exclude: added=2026-11-07 expires=2026-11-28
       - 1749688 # kometa-auto-exclude: added=2026-11-01 expires=2026-11-22
       - 1025281 # kometa-auto-exclude: added=2026-10-31 expires=2026-11-21
       - 1680398 # kometa-auto-exclude: added=2026-10-31 expires=2026-11-21

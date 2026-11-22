@@ -7,8 +7,7 @@ templates:
     
 dynamic_collections:
   TMDb Collections:          # This name is the mapping name
-    exclude:
-      - 1680398 # kometa-auto-exclude: added=2026-11-01 expires=2026-11-22
+    exclude: []
     template: Hallmarkish
     type: tmdb_collection
     remove_suffix: "Collection"
